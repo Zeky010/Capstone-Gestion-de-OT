@@ -1,1 +1,0 @@
-﻿# Este es un archivo para garantizar que se cree la carpeta; elimine este archivo si se agregan archivos realmente útiles a esta carpeta.
